@@ -15,3 +15,6 @@ To reduce the risk of accidents among drivers by :
 Analyzing and identify dangerous truck drivers
 Highlighting drivers with risk factor greater than or equal to 7.0
 
+# Tableau Link
+
+https://public.tableau.com/profile/mangesh.pathade#!/vizhome/Truck_Fleet_Analysis/DriveswithRiskFactor7
